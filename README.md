@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shubhra Shankha Roy</h1>
+<h3 align="center">Hello! I am a dedicated and enthusiastic Cloud Engineer from India, with over 12 years of experience in the dynamic IT industry </h3>
 
-<!--
-**shubhra01/shubhra01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 💬 Ask me about **Cloud,DevOps**
+
+- 🌱 I’m currently learning **DevOps technologies**
+
+- 📫 How to reach me **shubhraroy23@outlook.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/shubhra-shankha-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakeena-shaik" height="30" width="40" /></a>
+</p>
+
